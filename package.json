@@ -1,0 +1,16 @@
+{
+  "name": "sisac",
+  "version": "1.0.0",
+  "description": "Sistema de Agenda de Compromissos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dijonneto",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "nedb": "^1.8.0"
+  }
+}
